@@ -1,0 +1,14 @@
+ul.nav {
+  width: 100%;
+  text-align: center;
+}
+
+.nav li {
+  float: none;
+  width: 33%;
+  display: inline-block;
+}
+
+nav .active {
+    font-weight: bold;
+}
